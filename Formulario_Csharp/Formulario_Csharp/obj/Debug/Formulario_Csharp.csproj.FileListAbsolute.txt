@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\bin\Debug\Formulario_Csharp.exe.config
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\bin\Debug\Formulario_Csharp.exe
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\bin\Debug\Formulario_Csharp.pdb
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.Form1.resources
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.Properties.Resources.resources
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.exe
+C:\Users\leona\source\repos\Formulario_Csharp\Formulario_Csharp\obj\Debug\Formulario_Csharp.pdb
